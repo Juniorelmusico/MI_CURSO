@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUDnet8MVC.props" />
+</Project>
