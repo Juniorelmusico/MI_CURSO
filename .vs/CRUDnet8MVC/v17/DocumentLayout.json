@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\productos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\productos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,24 +47,8 @@
       "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\productos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\productos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\productos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Migrations\\20240608043837_cambiosCrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDnet8MVC\\Migrations\\20240608043837_cambiosCrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\migrations\\20240608024334_migracioninicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,6 +73,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\migrations\\20240608024334_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\migrations\\20240608024334_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|c:\\users\\junio\\desktop\\curso-net8\\proyectocrud\\crudnet8mvc\\crudnet8mvc\\migrations\\20240608043837_cambioscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EA0664-E29C-474D-94A1-C205A8BA3871}|CRUDnet8MVC\\CRUDnet8MVC.csproj|solutionrelative:crudnet8mvc\\migrations\\20240608043837_cambioscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,37 +86,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "CRUDnet8MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T04:41:50.045Z",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Dockerfile",
+              "RelativeDocumentMoniker": "CRUDnet8MVC\\Dockerfile",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Dockerfile",
+              "RelativeToolTip": "CRUDnet8MVC\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-08T05:09:38.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDnet8MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T04:57:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\Productos\\Index.cshtml",
               "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Productos\\Index.cshtml",
               "RelativeToolTip": "CRUDnet8MVC\\Views\\Productos\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-08T04:40:12.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Productos\\Crear.cshtml",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\Productos\\Crear.cshtml",
@@ -121,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Productos\\Editar.cshtml",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\Productos\\Editar.cshtml",
@@ -129,25 +150,24 @@
               "RelativeToolTip": "CRUDnet8MVC\\Views\\Productos\\Editar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T04:39:53.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:39:53.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CRUDnet8MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-08T04:28:58.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Program.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Program.cs",
@@ -160,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Models\\Producto.cs",
@@ -168,12 +188,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Models\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:24:50.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:24:50.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Controllers\\ProductosController.cs",
@@ -181,25 +200,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Controllers\\ProductosController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:25:08.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:25:08.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "CRUDnet8MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T04:41:50.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\Home\\Privacy.cshtml",
@@ -212,7 +217,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUDnet8MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T04:41:50.045Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDnet8MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDnet8MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T04:41:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20240608043837_cambiosCrud.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Migrations\\20240608043837_cambiosCrud.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Migrations\\20240608043837_cambiosCrud.cs",
@@ -220,12 +249,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Migrations\\20240608043837_cambiosCrud.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:38:37.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:38:37.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20240608024334_MigracionInicial.Designer.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Migrations\\20240608024334_MigracionInicial.Designer.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Migrations\\20240608024334_MigracionInicial.Designer.cs",
@@ -233,12 +261,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Migrations\\20240608024334_MigracionInicial.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:38:03.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:38:03.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Controllers\\HomeController.cs",
@@ -246,12 +273,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:29:41.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:29:41.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\appsettings.json",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\appsettings.json",
@@ -259,12 +285,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T02:35:48.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T02:35:48.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20240608024334_MigracionInicial.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Migrations\\20240608024334_MigracionInicial.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Migrations\\20240608024334_MigracionInicial.cs",
@@ -272,12 +297,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Migrations\\20240608024334_MigracionInicial.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T02:43:34.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T02:43:34.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\Models\\ErrorViewModel.cs",
@@ -285,12 +309,11 @@
               "RelativeToolTip": "CRUDnet8MVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T02:53:52.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T02:53:52.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\junio\\Desktop\\Curso-Net8\\ProyectoCRUD\\CRUDnet8MVC\\CRUDnet8MVC\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CRUDnet8MVC\\ApplicationDbContext.cs",
@@ -298,8 +321,7 @@
               "RelativeToolTip": "CRUDnet8MVC\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T04:25:36.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T04:25:36.07Z"
             }
           ]
         }

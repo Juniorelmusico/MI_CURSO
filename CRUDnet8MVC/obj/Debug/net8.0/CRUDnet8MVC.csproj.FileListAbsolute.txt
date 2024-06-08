@@ -134,3 +134,4 @@ C:\Users\junio\Desktop\Curso-Net8\ProyectoCRUD\CRUDnet8MVC\CRUDnet8MVC\obj\Debug
 C:\Users\junio\Desktop\Curso-Net8\ProyectoCRUD\CRUDnet8MVC\CRUDnet8MVC\obj\Debug\net8.0\CRUDnet8MVC.pdb
 C:\Users\junio\Desktop\Curso-Net8\ProyectoCRUD\CRUDnet8MVC\CRUDnet8MVC\obj\Debug\net8.0\CRUDnet8MVC.genruntimeconfig.cache
 C:\Users\junio\Desktop\Curso-Net8\ProyectoCRUD\CRUDnet8MVC\CRUDnet8MVC\obj\Debug\net8.0\ref\CRUDnet8MVC.dll
+C:\Users\junio\Desktop\Curso-Net8\ProyectoCRUD\CRUDnet8MVC\CRUDnet8MVC\obj\Debug\net8.0\CRUDnet8MVC.sourcelink.json
